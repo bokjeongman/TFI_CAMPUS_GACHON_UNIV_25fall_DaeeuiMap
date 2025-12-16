@@ -1,7 +1,9 @@
 # 대의 MAP 
 
 > **"누구나 원하는 장소 어디든 안전하고 편리하게"** > 휠체어 사용자를 위한 실시간 접근성 지도 커뮤니티
+
 > "Safely and conveniently wherever anyone wants" > Real-time Accessibility Map Community for Wheelchair Users
+
 > https://safedd.lovable.app
 
 <img src="https://github.com/bokjeongman/DaeeuiMap/blob/main/src/assets/logo.png?raw=true" alt="Daeeui Logo" width="200">
