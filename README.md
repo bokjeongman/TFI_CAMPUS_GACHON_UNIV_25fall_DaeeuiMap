@@ -102,13 +102,12 @@ https://youtube.com/shorts/nlcJSjgJ1eE?si=F_Rxb9HVmJ2vC6Fc
 
 ## 팀원 소개 (Team Members)
 
-| 이름 | 역할 | 소속 |
-| :--- | :--- | :--- |
-| **송태규** | **Team Leader / PM / FE / BE** | AI·소프트웨어학부 (AI) |
-| **강관규** | **Planning** | 경영학과(Business) |
-| **신민정** | **Front-end** | 스마트팩토리전공 |
-| **이시온** | **Front-end** | 컴퓨터공학과 |
-| **한수민** | **Back-end** | AI·소프트웨어학부 (SW) |
+| 이름 | 역할 | 소속 | 연락처 | | :--- | :--- | :--- | :--- |
+| **송태규** | **Team Leader / PM / FE / BE** | AI·소프트웨어학부 (AI) | songachon@gachon.ac.kr | 
+| **강관규** | **Planning** | 경영학과(Business) | dxs320@gachon.ac.kr | 
+| **신민정** | **Front-end** | 스마트팩토리전공 | mj12904@gachon.ac.kr |
+| **이시온** | **Front-end** | 컴퓨터공학과 | leesion0527@gachon.ac.kr | 
+| **한수민** | **Back-end** | AI·소프트웨어학부 (SW) | soenmam2@gachon.ac.kr |
 
 ---
 
