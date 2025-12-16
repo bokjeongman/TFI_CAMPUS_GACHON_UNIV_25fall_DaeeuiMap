@@ -124,11 +124,25 @@ https://youtube.com/shorts/nlcJSjgJ1eE?si=F_Rxb9HVmJ2vC6Fc
 * **2025.12:** 초기 데이터 확보 및 기능 고도화
 * **협력 확장:** 무의, 분당 IL센터 등 유관 기관과 협력하여 데이터 배포
 * **기능 개선:** 사용자 피드백 기반 UI/UX 개선
-* **콘텐츠 도입:** 무장애숲길, 테마맵 등 특화 콘텐츠 추가 예정
+* **콘텐츠 도입:** 무장애숲길, 무의 테마맵 등 특화 콘텐츠 추가 예정
 * **2025.12:** Early data acquisition and feature enhancement
 * **Expand cooperation:** Distribute data in cooperation with related organizations such as the Unintended and Bundang IL Center
 * **Improved features:** Improve UI/UX based on user feedback
-* **Content introduction:** Specialized content such as barrier-free forest roads and theme maps will be added
+* **Content introduction:** Specialized content such as barrier-free forest roads and muui theme maps will be added
+
+---
+
+## 기대 효과  (Expected Benefits)
+
+* 안전한 경로 파악에 걸리는 시간 감소 
+* 이동중 겪는 물리적 장벽(턱, 경사로)으로 인한 사고(낙상 등) 위험 감소
+* 외출에 대한 심리적 불안감 및 스트레스 감소
+* 이동성 향상으로 인한 경제활동 참여 증가
+* Reduce time spent figuring out a safe route
+* Reduce the risk of accidents (fall, etc.) due to physical barriers (high-threshold, ramp) encountered on the move
+* Reduce psychological anxiety and stress about going out
+* Increased participation in economic activities due to improved mobility
+  
 ---
 
 ## Acknowledgement
