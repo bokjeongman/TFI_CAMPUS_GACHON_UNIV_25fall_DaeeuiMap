@@ -5,6 +5,9 @@
 
 <img src="https://github.com/bokjeongman/DaeeuiMap/blob/main/src/assets/logo.png?raw=true" alt="Daeeui Logo" width="200">
 
+## 데모 영상
+https://youtube.com/shorts/nlcJSjgJ1eE?si=F_Rxb9HVmJ2vC6Fc
+
 ## 프로젝트 소개 (Project Overview)
 
 **대의**는 휠체어 사용자가 겪는 정보 부재와 이동 제약 문제를 해결하기 위한 서비스입니다. 기존 지도 앱들이 제공하지 못하는 **'도보 경로 상의 실시간 장애물(턱, 경사로 등) 정보'**를 사용자가 직접 제보하고, 이를 지도 위에 시각화하여 공유하는 커뮤니티형 지도 서비스입니다.
@@ -88,6 +91,13 @@
 | **신민정** | **Front-end** | 기계·스마트·산업공학부 |
 | **이시온** | **Front-end** | 컴퓨터공학과 |
 | **한수민** | **Back-end** | AI·소프트웨어학부 (SW) |
+
+---
+
+## 펠로우 및 멘토
+
+* Fellow: 사단법인 무의 홍윤희 펠로우님
+* Mentor: 카카오 장지호 멘토님
 
 ---
 
